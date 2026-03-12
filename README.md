@@ -10,7 +10,7 @@ This project explores spatial patterns of PM2.5 air pollution levels across the 
 - Proportional Symbols Map
   Point-based visualization where symbol size and color represent PM2.5 pollution levels at each mmonitoring station. This method highlights variation between individual     stations.
 
-Copy&Paste to view → file:///Users/jumana/Desktop/Proportional%20Symbols%20Map.html
+🔗[CLICK HERE to view the interactive map](dulcet-souffle-ca4046.netlify.app)
 
   <img width="1184" height="785" alt="Screenshot 2026-03-12 at 7 19 15 AM" src="https://github.com/user-attachments/assets/f4606979-d232-4ab0-9dd7-5550e3347509" />
 
@@ -19,8 +19,7 @@ Copy&Paste to view → file:///Users/jumana/Desktop/Proportional%20Symbols%20Map
   Point data were aggregated into a regular grid to generalize pollution patterns across space. This technique reduces the visual dominance of individual stations but        smoothes out local variations.
 
 
-
-Copy&Paste to view → file:///Users/jumana/Desktop/Grid%20Aggregation%20Map.html
+🔗[CLICK HERE to view the interactive map](cheery-fairy-f90d99.netlify.app)
 
 
   <img width="1358" height="789" alt="Screenshot 2026-03-12 at 7 22 59 AM" src="https://github.com/user-attachments/assets/e2c5750b-c771-4b5e-ad91-edceb11959ac" />
@@ -30,7 +29,7 @@ Copy&Paste to view → file:///Users/jumana/Desktop/Grid%20Aggregation%20Map.htm
 
 
 
-Copy&Paste to view → file:///Users/jumana/Desktop/Hex%20Bins%20Map.html
+🔗[CLICK HERE to view the interactive map](bright-moonbeam-408114.netlify.app)
 
 
   <img width="1169" height="800" alt="Screenshot 2026-03-12 at 7 14 18 AM" src="https://github.com/user-attachments/assets/6a502993-d88e-488f-a50f-80b60db20ee9" />
