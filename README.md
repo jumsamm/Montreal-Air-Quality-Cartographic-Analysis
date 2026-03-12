@@ -19,7 +19,7 @@ This project explores spatial patterns of PM2.5 air pollution levels across the 
   Point data were aggregated into a regular grid to generalize pollution patterns across space. This technique reduces the visual dominance of individual stations but        smoothes out local variations.
 
 
-🔗[CLICK HERE to view the interactive map]()
+🔗[CLICK HERE to view the interactive map](https://github.com/user-attachments/files/25936132/Grid.Aggregation.Map.html)
 
 
   <img width="1358" height="789" alt="Screenshot 2026-03-12 at 7 22 59 AM" src="https://github.com/user-attachments/assets/e2c5750b-c771-4b5e-ad91-edceb11959ac" />
