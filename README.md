@@ -10,7 +10,7 @@ This project explores spatial patterns of PM2.5 air pollution levels across the 
 - Proportional Symbols Map
   Point-based visualization where symbol size and color represent PM2.5 pollution levels at each mmonitoring station. This method highlights variation between individual     stations.
 
-🔗[CLICK HERE to view the interactive map](dulcet-souffle-ca4046.netlify.app)
+🔗[CLICK HERE to view the interactive map](https://github.com/user-attachments/files/25935715/Proportional.Symbols.Map.html)
 
   <img width="1184" height="785" alt="Screenshot 2026-03-12 at 7 19 15 AM" src="https://github.com/user-attachments/assets/f4606979-d232-4ab0-9dd7-5550e3347509" />
 
