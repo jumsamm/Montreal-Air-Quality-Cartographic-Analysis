@@ -1,4 +1,4 @@
-[40335059_Jumana_Mahmoud_Lab#8_Air_Quality_Station_Readings.csv](https://github.com/user-attachments/files/25933417/40335059_Jumana_Mahmoud_Lab.8_Air_Quality_Station_Readings.csv)# Montreal Air Quality Cartographic Analysis
+# Montreal Air Quality Cartographic Analysis
 This project explores spatial patterns of PM2.5 air pollution levels across the city of Montreal using historical air quality monitoring station data (2022-2024). The goal is to visualize how these three different cartographic techniques are used to explore spatial patterns and demonstrate their influence on the interpretation of environmental data.
 ## Tools & Skills
 - Tools : Kepler.gl and Excel
