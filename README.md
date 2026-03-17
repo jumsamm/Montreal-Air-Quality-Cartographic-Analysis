@@ -8,7 +8,7 @@ This project explores spatial patterns of PM2.5 air pollution levels across the 
 - Data was obtained from the City of Montreal's open data portal and the main variables used were Station ID, Station Name, Latitude & Longitude, Average PM2.5 values and Elevation. This dataset was processed in Excel using pivot tables and attribute joins to link pollution readings with monitoring station coordinates.
 ## Maps
 - Proportional Symbols Map
-  Point-based visualization where symbol size and color represent PM2.5 pollution levels at each mmonitoring station. This method highlights variation between individual     stations.
+  Point-based visualization where symbol size and color represent PM2.5 pollution levels at each monitoring station. This method highlights variation between individual     stations.
 
 🔗[CLICK HERE to view the interactive map](https://github.com/user-attachments/files/25935715/Proportional.Symbols.Map.html)
 
